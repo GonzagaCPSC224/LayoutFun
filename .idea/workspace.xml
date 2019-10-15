@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e65b066-6be1-4ab7-8a87-49badb5e3a19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Die1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Die2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Die3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Die4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Die5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Die6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LayoutFun/DiceView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LayoutFun/DiceView$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LayoutFun/DiceView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LayoutFun/DiceView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DiceView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiceView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LayoutTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutTester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
